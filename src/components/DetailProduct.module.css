@@ -1,0 +1,18 @@
+.image {
+    height:300px;
+    width:200px;
+}
+
+.gap {
+    margin-left: 20px;
+}
+
+.float {
+    float:left;
+    margin-right: 40px;
+}
+
+.color {
+    color: 	#4682b4;
+    font-size: 40px;
+}

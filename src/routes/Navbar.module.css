@@ -1,0 +1,16 @@
+.Navbar {
+    display: flex;
+    background-color: lightblue;
+    justify-content: flex-end;
+    height: 100px;
+    color: red;
+    padding: 30px 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.link {
+    margin-right: 50px;
+    text-decoration: none;
+}
+
